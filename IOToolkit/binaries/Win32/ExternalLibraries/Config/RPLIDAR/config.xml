@@ -1,0 +1,12 @@
+<!-- 注释内容 -->
+<Rplidar PortName="COM3" BaudRate="115200" AngleOffset="0" DebugRadius="3.000000" DebugMode="2">
+	<Screen Width="1920" Height="1080"/>
+	<TouchArea>
+		<Point x="-1.085500" y="1.526500"/>
+		<Point x="1.033000" y="1.526500"/>
+		<Point x="1.033000" y="2.600000"/>
+		<Point x="-1.085500" y="2.600000"/>
+	</TouchArea>
+	<FixedUIs/>
+</Rplidar>
+

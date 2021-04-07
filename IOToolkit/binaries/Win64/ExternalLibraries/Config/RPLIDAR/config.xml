@@ -1,0 +1,11 @@
+<Rplidar PortName="COM3" BaudRate="115200" AngleOffset="0" DebugRadius="3.400000" DebugMode="0">
+	<Screen Width="1920" Height="1080"/>
+	<TouchArea>
+		<Point x="-1.025500" y="1.496500"/>
+		<Point x="1.093000" y="1.496500"/>
+		<Point x="1.093000" y="2.570000"/>
+		<Point x="-1.025500" y="2.570000"/>
+	</TouchArea>
+	<FixedUIs/>
+</Rplidar>
+
